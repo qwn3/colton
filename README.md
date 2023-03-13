@@ -1,5 +1,5 @@
 <h1 align="center">
-  # colton
+  colton
 </h1>
   [![colton](https://img.shields.io/badge/colton-creating-lightgrey)](https://quantumrevo.github.io/colton)
   [![QUINN](https://img.shields.io/badge/QUINN-Active-brightgreen)](https://curly-dollop-y2wr1oe.pages.github.io)
