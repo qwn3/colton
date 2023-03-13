@@ -1,2 +1,2 @@
 # colton
-[![colton](https://img.shields.io/badge/colton-creating-lightgrey)]
+![colton](https://img.shields.io/badge/colton-creating-lightgrey)
