@@ -1,3 +1,1 @@
 # colton
-
-[![colton]
